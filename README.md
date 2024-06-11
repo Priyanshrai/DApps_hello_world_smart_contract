@@ -1,9 +1,12 @@
+![Hello Blockchain DApp Screenshot](https://github.com/Priyanshrai/DApps_hello_world_smart_contract/assets/105690577/03a41b06-2ec8-49fb-a888-d0cac22d50c6)
+
+
+
 ```markdown
 # Hello Blockchain DApp
 
 A decentralized "Hello World" application built on the Ethereum blockchain using Solidity, React, and Web3.js.
 
-![Hello Blockchain DApp Screenshot](https://github.com/Priyanshrai/DApps_hello_world_smart_contract/assets/105690577/03a41b06-2ec8-49fb-a888-d0cac22d50c6)
 
 ## Features
 
